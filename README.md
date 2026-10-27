@@ -1,15 +1,6 @@
-# github-learning-practice
-My first GitHub practice project
-## About Me
-- Learning GitHub step by step
-- Exploring version control
-- Practising software development workflows
+## Branch Practice
 
-## What I Have Learned
-- Created my first repository
-- Created a README file
-- Learned the purpose of a repository
+I created my first feature branch.
 
-## Next Steps
-- Learn commits
-- Learn branches
+I am learning how branches keep changes separate
+from the main project.
